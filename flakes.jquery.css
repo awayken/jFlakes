@@ -1,8 +1,5 @@
-.jqflakewrap {  }
-
-.jqflake { width: 40px; height: 40px; font-size: 40px; }
-.jqflake_large { width: 80px; height: 80px; font-size: 80px; }
-.jqflake_small { width: 20px; height: 20px; font-size: 20px; }
-
-.jqflake_snow .jqflake { color: #ccc; }
-.jqflake_rain .jqflake { color: #00c; }
+.flake { width: 40px; height: 40px; font-size: 40px; }
+.flake_large { width: 80px; height: 80px; font-size: 80px; }
+.flake_small { width: 20px; height: 20px; font-size: 20px; }
+.flake_snow .flake { color: #ccc; }
+.flake_rain .flake { color: #00c; }
